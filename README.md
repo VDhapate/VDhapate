@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VDhapate
-- 👀 I’m interested in ... web developement_cyber security_block chain
-- 🌱 I’m currently learning ...java_script
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web developement_cyber security_block chain
+- 🌱 I’m currently learning java_script
+- 💞️ I’m looking to collaborate on cybersecurity based projects or internships
 - 📫 How to reach me ...vaibhavidhapate721@gmail.com
 
 <!---
