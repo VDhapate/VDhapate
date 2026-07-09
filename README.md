@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VDhapate.
-- 👀 I’m interested in CyberSecurity, Blockchain, and Java.
+- 👀 I’m interested in Java, cybersecurity, and testing.
 - 🌱 I’m currently learning Java and SpringBoot.
 - 💞️ I’m looking to collaborate on either CyberSecurity or Java-based projects or internships
 - 📫 How to reach me ...vaibhavidhapate721@gmail.com
